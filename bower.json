@@ -1,0 +1,23 @@
+{
+  "name": "magnum",
+  "description": "Magnum is a sub theme of bootstrap.",
+  "main": "",
+  "authors": [
+    "Abhishek Anand <fly2abhishek@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap-sass-official#^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0",
+    "bower": "*",
+    "install": "^1.0.4"
+  }
+}
